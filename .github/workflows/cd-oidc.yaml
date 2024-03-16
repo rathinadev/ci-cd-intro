@@ -40,5 +40,5 @@ jobs:
 
     - name: Deploy changes
       run: |
-        brew install awsebcli
+        pip3 install --upgrade --user awsebcli
         eb deploy
