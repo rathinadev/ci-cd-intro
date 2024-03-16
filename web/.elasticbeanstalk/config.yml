@@ -6,7 +6,7 @@ global:
   application_name: oidc
   branch: null
   default_ec2_keyname: oidc
-  default_platform: Node.js 20 running on 64bit Amazon Linux 2023
+  default_platform: Node.js 16 running on 64bit Amazon Linux 2
   default_region: eu-west-2
   include_git_submodules: true
   instance_profile: null
